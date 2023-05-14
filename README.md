@@ -6,7 +6,6 @@
 
 A freshman at Prince George's Community College studying Information Technology with a passion for Cybersecurity.🌱  
   
-
 <br/>  
 
 ## 🌻About Me🌻  
