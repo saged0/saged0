@@ -9,7 +9,7 @@ A student at Bowie State University studying Computer Science with a passion for
 
 🌿 A tech enthusiast with a love for adventure and all things green 🌿
 
-🔍 I currently hold the GIAC Foundational Cybersecurity Technologies (GFACT) certification, as well as Google certificates in IT Support and Cybersecurity 🔍
+🔍 I currently hold the GIAC Security Essentials (GSEC) and GIAC Foundational Cybersecurity Technologies (GFACT) certifications, as well as Google certificates in IT Support and Cybersecurity 🔍
 
 🍵 In my free time, you'll catch me in the heart of CTF challenges, learning new techniques and technologies 🍵
 
