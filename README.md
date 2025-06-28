@@ -27,7 +27,7 @@ A student at Bowie State University studying Computer Science with a passion for
 ## 🌺Tools🌺
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,linux,kali,vscode,idea," />
+    <img src="https://skillicons.dev/icons?i=git,docker,npm,linux,kali,arch,debian,ubuntu,vscode,idea,postman," />
   </a>
 </p>
 <br/>
